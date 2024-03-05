@@ -1,0 +1,26 @@
+.main{
+    margin:4rem 10rem;
+    color:honeydew;
+}
+
+.main h1{
+ font-size: 3rem;   
+}
+
+.first{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 4.5rem;
+}
+.text{
+    width: 45%;
+   text-align: start;
+   font-size: 1.1rem;
+}
+.text h2{
+    padding-bottom: 1rem;
+}
+
+
+

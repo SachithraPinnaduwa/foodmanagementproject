@@ -1,0 +1,75 @@
+.header {
+  max-width: 100%;
+  min-width: 100%;
+  padding: 6px;
+  display: grid;
+  place-items: center;
+
+  font-family: system-ui, sans-serif;
+}
+
+
+
+.nav-item {
+  flex-direction: row-reverse;
+  font-size: 0.8999rem;
+  line-height: 1rem;
+  align-items: center;
+  min-width: 120px;
+  justify-content: space-between;
+  transition: all 80ms ease;
+}
+.nav-item.active {
+  color: #bb99ff;
+  text-shadow: 0 0 3px rgba(153, 102, 255, 0.7);
+}
+.nav-item:not(.active):hover {
+  color: rgba(255, 255, 255, 0.87);
+}
+.nav-item:hover > .icon .subicon {
+  height: 32px;
+  width: 32px;
+  border-radius: 32px;
+  top: -16px;
+  right: -16px;
+  border-color: white;
+}
+.nav-item:not(:first-of-type) {
+  border-left: 1px solid #3c3c3c;
+}
+.nav-item:not(:last-of-type) {
+  border-right: 0.1rem solid black;
+}
+.nav-item a {
+  color: inherit;
+  text-decoration: none;
+  padding: 1ch;
+}
+.nav-item .icon {
+  padding: 1ch;
+  position: relative;
+}
+
+.nav-item .icon > svg {
+  max-width: 16px;
+}
+
+/* For mobile screens */
+@media only screen and (min-width: 0px) and (max-width: 640px) {
+  .nav-item {
+    font-size: 0.6rem;
+    min-width: 80px;
+  }
+}
+
+@media only screen and (min-width: 641px) and (max-width: 1024px) {
+  .nav-item {
+    font-size: 0.9rem;
+  }
+}
+
+@media only screen and (min-width: 1025px) {
+  .nav-item {
+    font-size: 0.8999rem;
+  }
+}

@@ -1,0 +1,86 @@
+[
+  {
+    "id": "q31231",
+    "title": "Canning",
+    "description": "Learn about the fundamentals of canning and how to preserve your favorite foods.",
+    "image": "https://images.unsplash.com/photo-1640348784724-93f7b14d8047?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "detailPageContent": {
+      "title1": "Introduction to Canning",
+      "title2": "Principles of Canning",
+      "title3": "Canning Methods",
+      "title4": "Benefits of Canning",
+      "pageImage": "https://plus.unsplash.com/premium_photo-1661582001283-cb723906b901?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "des1": "Canning is a method of food preservation that involves processing food in closed glass canning jars at high temperatures. The heat sterilizes the food, while the sealed jars prevent recontamination. This method is effective for extending the shelf life of both high-acid foods (like fruits and pickles) and low-acid foods (such as vegetables, meats, and fish).",
+      "des2": "Canning works by heating jars of food to a temperature that destroys potentially harmful microorganisms. During the canning process, the air is expelled from the jar, and as it cools, a vacuum seal forms. This seal prevents air from getting back into the jar and recontaminating the food.",
+      "des3": "Water Bath Canning: Suitable for high-acid foods with a pH level of 4.6 or lower. The acidity can naturally inhibit the growth of botulism bacteria. Foods include fruits, jams, jellies, and pickles. \nPressure Canning: Required for low-acid foods with a pH above 4.6. Pressure canning reaches higher temperatures than water bath canning, necessary to safely preserve vegetables, meats, poultry, and seafood.",
+      "benefitsList": [
+        "Longevity: Properly canned goods can last for years, reducing food waste and allowing you to enjoy out-of-season foods.",
+        "Nutrition: Canning preserves most of the nutrients in food, especially when fresh produce is canned at its peak ripeness.",
+        "Convenience: Canned foods are ready to eat or require minimal preparation, making them a convenient option for quick meals."
+      ]
+    }
+  },
+  {
+    "id": "f12345",
+    "title": "Freezing",
+    "description": "Preserve the freshness and flavor of your foods with simple freezing techniques.",
+    "image": "https://images.unsplash.com/photo-1606859191214-25806e8e2423?q=80&w=2035&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "detailPageContent": {
+      "title1": "Introduction to Freezing",
+      "title2": "Principles of Freezing",
+      "title3": "Freezing Best Practices",
+      "title4": "Benefits of Freezing",
+      "pageImage": "https://images.unsplash.com/photo-1606859191214-25806e8e2423?q=80&w=2035&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "des1": "Freezing is a preservation method that slows down enzyme activity and microbial growth by turning water in food into ice. This process effectively preserves food for extended periods without altering its nutritional value significantly.",
+      "des2": "To freeze food properly, it's essential to bring its temperature down to 0°F (-18°C) or lower quickly. Fast freezing helps form small ice crystals, which preserve food texture better than slow freezing, which can create large ice crystals.",
+      "des3": "To achieve the best results, pre-freeze perishables on a tray before packing them into airtight containers or freezer bags. Label and date all items before freezing. Some foods may require blanching before freezing to preserve color, flavor, and texture.",
+      "benefitsList": [
+        "Preserves nutrition and taste over long periods.",
+        "Offers convenience, as frozen foods can be prepared in advance, stored, and then used as needed.",
+        "Reduces food waste by allowing you to save surplus or seasonal produce."
+      ]
+    }
+  },
+  {
+    "id": "d23456",
+    "title": "Drying or Dehydrating",
+    "description": "Extend the shelf life of your foods through the art of drying.",
+    "image": "https://images.unsplash.com/photo-1509156396595-449e10c5cd3e?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "detailPageContent": {
+      "title1": "Introduction to Drying",
+      "title2": "Principles of Drying",
+      "title3": "Methods of Drying",
+      "title4": "Benefits of Drying",
+      "pageImage": "https://images.unsplash.com/photo-1627654315169-036fc27b7c33?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "des1": "Drying or dehydrating is one of the oldest methods of food preservation, which involves removing moisture from food to prevent the growth of microorganisms. When properly dried and stored, foods can last for months or even years.",
+      "des2": "Effective drying requires a consistent flow of warm, dry air. This can be achieved through several methods, including sun drying, air drying, oven drying, and using an electric dehydrator. The key is to remove moisture as quickly as possible without cooking the food.",
+      "des3": "Sun drying is best for fruits and herbs in hot, dry climates. Oven drying works for meat (jerky), fruits, and vegetables but requires careful temperature control. Electric dehydrators offer the most consistent results and can be used for almost all types of food.",
+      "benefitsList": [
+        "Drying significantly reduces food weight and volume, making it easier to store and transport.",
+        "Preserves the nutritional content of food, particularly fibers and minerals, and can concentrate flavors.",
+        "No need for refrigeration, enhancing food storage options in various environments."
+      ]
+    }
+  },
+  {
+    "id": "p34567",
+    "title": "Pickling",
+    "description": "Discover the tangy world of pickling to enhance your meals and preserve your produce.",
+    "image": "https://images.unsplash.com/photo-1621378581627-4600ab002f84?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "detailPageContent": {
+      "title1": "Introduction to Pickling",
+      "title2": "Principles of Pickling",
+      "title3": "Pickling Ingredients",
+      "title4": "Benefits of Pickling",
+      "pageImage": "https://images.unsplash.com/photo-1621378581627-4600ab002f84?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "des1": "Pickling is a preservation technique that involves submerging foods in an acidic solution or saltwater brine. This process not only preserves the food but also imparts unique flavors, making pickled foods a popular culinary delicacy worldwide.",
+      "des2": "The acidity of the pickling solution, typically vinegar or a brine of water and salt, prevents the growth of harmful bacteria. For many pickled foods, spices and seasonings are added to enhance flavor.",
+      "des3": "Common pickling ingredients include vinegar, water, salt, sugar, and a variety of spices such as dill, mustard seeds, and garlic. The choice of ingredients can significantly affect the taste and texture of the final product.",
+      "benefitsList": [
+        "Pickling can extend the shelf life of perishable foods for months.",
+        "It's an excellent way to preserve seasonal produce and add a flavorful twist to your diet.",
+        "Pickled foods also contain probiotics, which are beneficial for digestive health."
+      ]
+    }
+  }
+]

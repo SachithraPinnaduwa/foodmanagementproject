@@ -1,0 +1,48 @@
+/* Navbar.css */
+.navbar {
+    background-color: rgb(167, 150, 94); /* This is a red shade; adjust the hex code to match your exact color */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0.5rem 0; /* Adjust padding to control the height of the navbar */
+    box-shadow: 10 2px 4px rgba(0, 0, 0, 0.1); /* subtle shadow */
+  }
+  
+  .nav-left{
+    
+    margin-right: auto;
+  }
+  .nav-right {
+    margin-left: auto;
+  }
+  .navbar a {
+    text-decoration: none;
+    color: white;
+    margin: 0 20px; /* Adjust margin to control the spacing between links */
+    padding: 10px 0; /* Padding for link height */
+    font-weight: bold; /* Bold font */
+    text-transform: uppercase; /* Uppercase text */
+    font-size: 0.9rem; /* Adjust font size as needed */
+    transition: color 0.2s; /* Smooth transition for hover effect */
+  }
+  
+  .navbar a:hover {
+    color: #a8dadc; /* Lighter color on hover */
+  }
+  
+  .nav-logo {
+    margin: 0 40px; /* Adjust margin to control the logo's position */
+    flex-grow: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10vh; 
+  }
+  
+  .nav-logo img {
+    height: auto; /* Maintain aspect ratio */
+    width: 140px; /* Adjust width to control the size of the logo */
+  }
+  
+ 
+  
