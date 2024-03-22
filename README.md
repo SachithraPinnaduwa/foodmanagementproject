@@ -16,4 +16,15 @@ After installing, you can run the project locally by executing:<br>
 npm run dev <br>
 This command will start the application and make it accessible via "http://localhost:3000"
 
+# Wireframes
+
+#Home
 ![Home](https://github.com/SachithraPinnaduwa/foodmanagementproject/assets/136422527/e3c0791a-4b86-46c3-a7c6-473ec2e847c1)
+
+#Food DB
+![Food DB](https://github.com/SachithraPinnaduwa/foodmanagementproject/assets/136422527/8cd6d2cd-0d2d-4d88-b75a-574f2118dc15)
+
+#Chatbot
+![Chatbot](https://github.com/SachithraPinnaduwa/foodmanagementproject/assets/136422527/7d3bc950-fb02-471a-8ab6-5be2973d54d6)
+
+
