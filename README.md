@@ -10,7 +10,10 @@ git clone https://github.com/savisaluwadana/foodmanagementsystem.git <br>
 cd foodmanagementsystem <br>
 npm install
 
+
 # Usage
 After installing, you can run the project locally by executing:<br>
 npm run dev <br>
 This command will start the application and make it accessible via "http://localhost:3000"
+
+![Home](https://github.com/SachithraPinnaduwa/foodmanagementproject/assets/136422527/e3c0791a-4b86-46c3-a7c6-473ec2e847c1)
